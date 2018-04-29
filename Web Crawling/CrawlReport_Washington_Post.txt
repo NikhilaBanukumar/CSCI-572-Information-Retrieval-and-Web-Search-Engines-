@@ -1,0 +1,43 @@
+Name : Nikhila BanuKumar
+USC ID : 2623148495
+School Crawled : Washington_Post
+
+Fetch Statistics :
+==================
+# fetches attempted : 19997
+# fetches succeeded : 18566
+# fetches aborted : 607
+# fetches failed : 824
+
+Outgoing URLs :
+===============
+Total Urls extracted : 404306
+# unique URLs extracted :151928
+# unique URLs within news  website :48708
+# unique URLs outside news website :103220
+
+Status Codes :
+==============
+400 :28
+403 :2
+404 :783
+502 :11
+200 :18566
+301 :574
+302 :33
+
+File Sizes :
+=============
+<1KB :2
+>1MB :228
+1KB ~ <10KB :189
+100KB ~ <1MB :12826
+10KB ~ <100KB :3999
+
+Content Types :
+================
+image/png 132
+text/html 16345
+image/jpeg 308
+application/pdf 406
+image/gif 53
